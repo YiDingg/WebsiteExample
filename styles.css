@@ -1,0 +1,4 @@
+#sidebar-logo {
+    width: 200px; /* 设置宽度为200像素 */
+    height: auto; /* 自动计算高度，保持比例不变 */
+  }
