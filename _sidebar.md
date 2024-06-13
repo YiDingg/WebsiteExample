@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
 
 * [首页]()
-* [指南](MyBlog/)
+* [My Blog](MyBlog/)
 * [Blog 2](MyBlog/Blog2.md)
