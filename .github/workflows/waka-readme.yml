@@ -25,7 +25,7 @@ jobs:
           PDATED_DATE_FORMAT: "%Y.%m.%d %H:%M:%S"
           SHOW_TIMEZONE: "False" ### cannot collect data (why?)
           SHOW_EDITORS: "False" ### cannot collect data (why?)
-          SHOW_PROJECTS: "False" ### cannot collect data (why?)
+          SHOW_PROJECTS: "Ture" ### cannot collect data (why?)
           SHOW_LANGUAGE: "False" ### cannot collect data (why?)
           SHOW_OS: "False" ### cannot collect data (why?)
           ### commit
