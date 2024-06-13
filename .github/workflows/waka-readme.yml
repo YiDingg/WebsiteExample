@@ -22,7 +22,6 @@ jobs:
           SYMBOL_VERSION: "1"
           SHOW_LOC_CHART: "False"
           SHOW_TOTAL_CODE_TIME: "False"
-          COMMIT_BY_ME: "Ture"
           ### commit
           
           
