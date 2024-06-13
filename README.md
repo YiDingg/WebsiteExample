@@ -5,12 +5,21 @@
 </p>
 
 
+about me:
 - 🔭 I’m currently studying at [UCAS](https://www.ucas.ac.cn/) (University of Chinese Academy of Sciences)
 - 💬 Ask me about Electronic Enginearing
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: dingyi233@mails.ucas.ac.cn
 - ⚡ Fun fact: ...
+
+my technology stack:
+- Latex
+- Git
+- Matlab
+- C Programming
+- MCU(STM32)
+- PCB design
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YiDingg)](https://github.com/anuraghazra/github-readme-stats)
 
