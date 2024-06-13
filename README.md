@@ -1,6 +1,7 @@
 <h2 align="center">👋 Hello! I'm Yi Ding.</h2>
 <p align="center">
   • <a href="https://yidingg.github.io/YiDingg/#/">My Personal Website</a>
+  • <a href="https://yidingg.github.io/YiDingg/#/">My GitHub</a>
 </p>
 
 
