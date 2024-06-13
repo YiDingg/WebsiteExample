@@ -22,7 +22,7 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_UPDATED_DATE: "True"
-          PDATED_DATE_FORMAT: "%Y.%m.d"
+          PDATED_DATE_FORMAT: "%Y.%m.%d %H:%M:%S"
           SHOW_TIMEZONE: "False" ### cannot collect data (why?)
           SHOW_EDITORS: "False" ### cannot collect data (why?)
           SHOW_PROJECTS: "False" ### cannot collect data (why?)
