@@ -1,3 +1,14 @@
+<!-- 
+/*  
+ * Copyright (c) 2024 YiDing, all rights reserved. 
+ *  
+ * This is an example file of the site. You can freely copy,
+ * fork, clone and download the file to your local machine.
+ * But attention to replace it by your own file before you
+ * deploying the site.
+ */
+-->
+
 # Nice VSCode Extenstions
 
 >This page was initially created on 2024-06-26 and is updating constantly.

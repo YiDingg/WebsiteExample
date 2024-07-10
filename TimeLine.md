@@ -1,3 +1,14 @@
+<!-- 
+/*  
+ * Copyright (c) 2024 YiDing, all rights reserved. 
+ *  
+ * This is an example file of the site. You can freely copy,
+ * fork, clone and download the file to your local machine.
+ * But attention to replace it by your own file before you
+ * deploying the site.
+ */
+-->
+
 # Time Line
 
 ## Development Plan

@@ -1,5 +1,14 @@
 <!-- _coverpage.md -->
-
+<!-- 
+/*  
+ * Copyright (c) 2024 YiDing, all rights reserved. 
+ *  
+ * This is an example file of the site. You can freely copy,
+ * fork, clone and download the file to your local machine.
+ * But attention to replace it by your own file before you
+ * deploying the site.
+ */
+-->
 
 # 🏠<span style="font-family:'Times New Roman','Cascadia Code';">Yi Ding's Website</span><br> 
 
