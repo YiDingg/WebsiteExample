@@ -25,6 +25,6 @@
 </style>
 
 
-[GitHub](https://github.com/YiDingg/Website)
+[GitHub](https://github.com/YiDingg/WebsiteExample)
 [Get Started](/HOMEPAGE.md)
 

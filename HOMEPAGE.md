@@ -13,7 +13,7 @@
 
 ## Intro
 
-This is an awesome, ready-to-use website based on docsify, deployed on GitHUb Pages. It is separated from my original website and modified to be an example for you. You can simply fork it into your repo to have the same website or modify it to fit your thoughts. Visit [Home Page](https://yidingg.github.io/Website) to see what's this site like, refer to [Syntax 20Examples](https://yidingg.github.io/Website/#/Blogs/SiteFeatures/Syntax%20Examples) for it's rich features and components, and go to [GitHub](https://github.com/YiDingg/Website) to fork or clone it. 
+This is an awesome, ready-to-use website based on docsify, deployed on GitHUb Pages. It is separated from my original website and modified to be an example for you. You can simply fork it into your repo to have the same website or modify it to fit your thoughts. Visit [Home Page](https://yidingg.github.io/WebsiteExample/#/HOMEPAGE) to see what's this site like, refer to [Syntax 20Examples](https://yidingg.github.io/WebsiteExample/#/Blogs/SiteFeatures/Syntax%20Examples) for it's rich features and components, and go to [GitHub](https://github.com/YiDingg/WebsiteExample) to fork or clone it. 
 
 You can refer to [Build Your Personal Website](https://yidingg.github.io/YiDingg/#/Blogs/Mixed/BuildYourSite) to learn how to build your own website using docsify, or for more information.
 
