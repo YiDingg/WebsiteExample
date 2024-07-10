@@ -10,7 +10,7 @@
  */
 -->
 
-# 🏠<span style="font-family:'Times New Roman','Cascadia Code';">Yi Ding's Website</span><br> 
+# 🏠<span style="font-family:'Times New Roman','Cascadia Code';">Website Example</span><br> 
 
 <span style="font-family:'Times New Roman';font-size:1.2rem;">Major in EE (Electronic Engineering), share notes and thoughts here. (●'◡'●)</span>
 
