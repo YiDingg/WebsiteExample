@@ -1,5 +1,4 @@
 <!-- _coverpage.md -->
-<!-- <div class="center" style="max-width:300px;"><img src="https://imagebank-0.oss-cn-beijing.aliyuncs.com/VS-PicGo/2024-07-02-13-31-34__coverpage_.jpg"/></div> -->
 
 
 # 🏠<span style="font-family:'Times New Roman','Cascadia Code';">Yi Ding's Website</span><br> 
@@ -17,6 +16,6 @@
 </style>
 
 
-[GitHub](https://github.com/YiDingg)
+[GitHub](https://github.com/YiDingg/Website)
 [Get Started](/HOMEPAGE.md)
 

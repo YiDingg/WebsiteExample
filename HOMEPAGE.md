@@ -1,60 +1,34 @@
 # Home Page
 
-## About The Site
+## Intro
 
-### What Is This Site
+This This is an awesome, ready-to-use website based on docsify, deployed on GitHUb Pages. It is separated from my original website and modified to be an example for you. You can simply fork it into your repo to have the same website or modify it to fit your thoughts. Visit []() to see what's this site like, and go to [GitHub](https://github.com/YiDingg/Website) to fork or clone it. 
 
-This site is a collection of my notes, blogs and documents. It is maintained by myself, hosted on GitHub Pages. 
+You can refer to [Build Your Personal Website](https://yidingg.github.io/YiDingg/#/Blogs/Mixed/BuildYourSite) to learn how to build your own website using docsify, or for more information.
 
-Refer to [Build Your Personal Website](Blogs/Mixed/BuildYourSite.md) if you also want to build your own website.
+<div class="center"><img src="https://imagebank-0.oss-cn-beijing.aliyuncs.com/VS-PicGo/2024-07-10-12-46-00_HOMEPAGE.jpg"/></div>
+<div class="center"><img src="https://imagebank-0.oss-cn-beijing.aliyuncs.com/VS-PicGo/2024-07-10-12-46-55_HOMEPAGE.jpg"/></div>
 
-### Navgation Page
+## License
 
-Click the button at the bottom left or go to [Navgation Page](_sidebar.md) for the table of contents.
+MIT License
 
-### About Blogs
+Copyright (c) 2024 DimStar
 
-Our notes, blogs and documents are written with Notability, Markdown or Latex, following [*WSETD (Writing Standards of Easy-read Technical Document)*](Projects\WSETD\OutlineOfWSETD.md). 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Some that need a lot of graphs are taken by Markdown + HTML on VSCode or Typora. Some that need numerous formula to derive the conclusions are written by Latex on VSCode, displayed in PDF format. The rest will be written with Markdown or Notability, displayed in PDF format. 
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-By the way, I am trying to write notes in English as a practice.
-
-### Create New Blog
-
-The blogs are following [*WSETD (Writing Standards of Easy-read Technical Document)*](Projects\WSETD\OutlineOfWSETD.md) and below are some tools that may be helpful. Refer to [Data Host](Blogs\SiteFeatures\Data%20Host.md) for the reasons and more information.
-
-**Tools:**
-- Use [Resize](https://bulkresizephotos.com/zh?preset=true&type=filesize&filesize=80000) (img) and [Docsmall](https://docsmall.com/gif-compress) (gif) <span class='script'>or [Tiomg](https://tiomg.org/compress-image) or [Oplimize LLA](https://imagecompressor.com) or [TinyPNG](https://tinypng.com/) or [Tanpok](https://tool.tanpok.com/#/ImgCompress)</span> to compress the image and gif.
-- Use [FreeCompress](https://freecompress.com/) <span class='script'>or [Video To Edit](https://www.video2edit.com) or [FCO](https://compress-video.file-converter-online.com/#google_vignette)</span> to compress the video.
-- Use [YouCompress](https://www.youcompress.com/)<span class='script'>or [MP3Smaller](https://www.mp3smaller.com/)</span> to compress the audio.
-- Use [I Love PDF](https://www.ilovepdf.com/) <span class='script'> or [PDF24 Tolls](https://tools.pdf24.org/zh/compress-pdf) or [PDF IO](https://pdf.io/compress/)</span> to compress pdf.
-- Use<!--   [C1N](https://www.c1n.cn/) or --> [Short](https://d.igdu.xyz/)<span class='script'> or [C1N](https://www.c1n.cn/)</span> to create a short link for your file.
-- Use [SINA](https://www.sina.lt/restore.html) to restore the short link.
-- Use [Screen to GIF]() to convert video into gif if you need.
-- Use [Capitalize](https://capitalizemytitle.com/style/APA/) <span class='script'>or [Wawa](https://www.iamwawa.cn/daxiaoxie.html)</span> to capitalize your titles.
-- Use [Rewriter](https://capitalizemytitle.com/ai-title-rewriter/) to rewrite your title.
-
-**Data host:**
-- upload <span style="color:red">img and small gif to Aliyun</span> by VS-PicGo
-- upload <span style="color:red">gif, video, audio pdf and other files to WB.Static</span> manually. <span style="color:red">
-- upload the files to 123 NetDisk or Baidu NetDisk to share them.
-
-
-### About Me
-
-Go to [About Me](README.md) for more information.
-
-
-## Other Personal Sites
-
-Here are part of other excellent personal websites.
-
-
-- [Dexter Chua](https://dec41.user.srcf.net/)
-- [Zerun's Blog](https://blog.zeruns.tech/category/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
-- [科学空间](https://spaces.ac.cn/archives/1615)
-- [阮一峰的网络日志](https://www.ruanyifeng.com/blog/developer/)
-- [汇尘轩](https://kirigaya.cn/home)
-- [陶小桃 Blog](https://www.52txr.cn/)
-- [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) (Collection) 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
