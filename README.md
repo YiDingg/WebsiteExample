@@ -43,6 +43,8 @@ My Technology Stack:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YiDingg)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- https://github.com/athul/waka-readme -->
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2052%20mins-blue)
 
