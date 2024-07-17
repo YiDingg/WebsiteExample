@@ -17,8 +17,13 @@ This is an awesome, ready-to-use website based on docsify, deployed on GitHUb Pa
 
 You can refer to [Build Your Personal Website](https://yidingg.github.io/YiDingg/#/Blogs/Mixed/BuildYourSite) to learn how to build your own website using docsify, or for more information.
 
+<!-- 
 <div class="center"><img src="https://imagebank-0.oss-cn-beijing.aliyuncs.com/VS-PicGo/2024-07-10-12-46-00_HOMEPAGE.jpg"/></div>
 <div class="center"><img src="https://imagebank-0.oss-cn-beijing.aliyuncs.com/VS-PicGo/2024-07-10-12-46-55_HOMEPAGE.jpg"/></div>
+-->
+![img](https://imagebank-0.oss-cn-beijing.aliyuncs.com/VS-PicGo/2024-07-10-12-46-00_HOMEPAGE.jpg)
+![img](https://imagebank-0.oss-cn-beijing.aliyuncs.com/VS-PicGo/2024-07-10-12-46-55_HOMEPAGE.jpg)
+
 
 ## About Me
 
