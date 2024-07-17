@@ -21,8 +21,9 @@ You can refer to [Build Your Personal Website](https://yidingg.github.io/YiDingg
 <div class="center"><img src="https://imagebank-0.oss-cn-beijing.aliyuncs.com/VS-PicGo/2024-07-10-12-46-00_HOMEPAGE.jpg"/></div>
 <div class="center"><img src="https://imagebank-0.oss-cn-beijing.aliyuncs.com/VS-PicGo/2024-07-10-12-46-55_HOMEPAGE.jpg"/></div>
 -->
-![img](https://imagebank-0.oss-cn-beijing.aliyuncs.com/VS-PicGo/2024-07-10-12-46-00_HOMEPAGE.jpg)
-![img](https://imagebank-0.oss-cn-beijing.aliyuncs.com/VS-PicGo/2024-07-10-12-46-55_HOMEPAGE.jpg)
+
+![image](https://github.com/user-attachments/assets/ca80948d-b397-417d-b444-72aed7653e4b)
+![image](https://github.com/user-attachments/assets/58630fa6-d42f-4ed9-86ba-e886233e6a52)
 
 
 ## About Me
