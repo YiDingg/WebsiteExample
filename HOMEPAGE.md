@@ -9,11 +9,15 @@
  */
 -->
 
+![d](https://github-production-user-asset-6210df.s3.amazonaws.com/149370435/349369751-baa34160-ecd7-4c72-b990-43e8f6a951c7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240717%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240717T051956Z&X-Amz-Expires=300&X-Amz-Signature=6250d532427ec36f8dd6aa964ce2d96f37e927777eb3d93426bb675d9c4b6b56&X-Amz-SignedHeaders=host&actor_id=149370435&key_id=0&repo_id=826625551)
+
+![d](https://github.com/user-attachments/assets/baa34160-ecd7-4c72-b990-43e8f6a951c7)
+
 # Home Page
 
 ## Intro
 
-This is an awesome, ready-to-use website based on docsify, deployed on GitHUb Pages. It is separated from my original website and modified to be an example for you. You can simply fork it into your repo to have the same website or modify it to fit your thoughts. Visit [Home Page](https://yidingg.github.io/WebsiteExample/#/HOMEPAGE) to see what's this site like, refer to [Syntax 20Examples](https://yidingg.github.io/WebsiteExample/#/Blogs/SiteFeatures/Syntax%20Examples) for it's rich features and components, and go to [GitHub](https://github.com/YiDingg/WebsiteExample) to fork or clone it. 
+This is an awesome, ready-to-use website based on docsify, deployed on GitHUb Pages. It is separated from [my original website](https://yidingg.github.io/YiDingg) and modified to be an example for you. You can simply fork it into your repo to have the same website or modify it to fit your thoughts. Visit [Home Page](https://yidingg.github.io/WebsiteExample/#/HOMEPAGE) to see what's this site like, refer to [Syntax 20Examples](https://yidingg.github.io/WebsiteExample/#/Blogs/SiteFeatures/Syntax%20Examples) for it's rich features and components, and go to [GitHub](https://github.com/YiDingg/WebsiteExample) to fork or clone it. 
 
 You can refer to [Build Your Personal Website](https://yidingg.github.io/YiDingg/#/Blogs/Mixed/BuildYourSite) to learn how to build your own website using docsify, or for more information.
 
